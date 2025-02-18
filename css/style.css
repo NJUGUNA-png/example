@@ -15,6 +15,9 @@ img{
 ul>li{
   color: chartreuse;
 }
+ol>li{
+  color: chartreuse;
+}
 *{
   text-align: center;
 }
