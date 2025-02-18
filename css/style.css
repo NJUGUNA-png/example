@@ -6,4 +6,15 @@ h1{
 }
 h3{
     color: chocolate;
+ }
+img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+ul>li{
+  color: chartreuse;
+}
+*{
+  text-align: center;
 }
